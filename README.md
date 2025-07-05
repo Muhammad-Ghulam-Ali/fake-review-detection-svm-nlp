@@ -75,4 +75,39 @@ This emulates how real platforms like Amazon may flag suspicious reviews.
 ---
 
 ## 📊 Sample Results
+          precision    recall  f1-score   support
+
+       0       0.84      0.88      0.86     
+       1       0.89      0.85      0.87     
+
+accuracy                           0.86     
+
+---
+
+## 📌 Future Improvements
+
+- Replace heuristics with human-annotated or crowdsourced labels
+- Use transformer-based models (e.g., BERT) for better semantic understanding
+- Build and deploy a web app for real-time review validation
+
+---
+
+## 🗂️ Repository Contents
+
+
+---
+
+## 👤 Author
+
+**Muhammad Ghulam Ali**  
+MS Business Analytics | Machine Learning Practitioner  
+📧 [mghulamali888@gmail.com](mailto:mghulamali888@gmail.com)  
+🔗 [GitHub](https://github.com/Muhammad-Ghulam-Ali)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 
